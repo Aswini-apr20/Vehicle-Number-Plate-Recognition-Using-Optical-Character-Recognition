@@ -1,0 +1,2 @@
+# Vehicle-Number-Plate-Recognition-Using-Optical-Character-Recognition
+Vehicle Number Plate Recognition using OCR is a computer vision project that automatically detects and extracts vehicle license plate numbers from images or videos. It uses OpenCV for image processing and OCR to recognize text accurately. The system is useful for traffic monitoring, parking management, toll collection, and vehicle access control.
